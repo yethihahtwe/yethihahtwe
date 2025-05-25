@@ -15,9 +15,18 @@ A passionate developer interested in Data-driven applications. I'm currently wor
 [![Top Langs](https://github-readme-stats-iota-three-22.vercel.app/api/top-langs/?username=yethihahtwe&layout=donut&theme=vue-dark)](https://github.com/yethihahtwe/github-readme-stats)
 
 ## 🏆 Certifications
+
 ![AWS Cloud 101](https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
 
 [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/eb48dc72-e7bf-48fd-af98-86e9044cb8cb/public_url)
+
+![AWS getting started with storage](https://images.credly.com/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)
+
+[AWS Educate - Getting started with storage](https://www.credly.com/badges/ea671489-5834-45f5-b62c-3c744d7f9894/public_url)
+
+![AWS getting started with compute](https://images.credly.com/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)
+
+[AWS Educate - Getting started with compute](https://www.credly.com/badges/6f29dd92-e43b-4907-8730-7e142b1d87e8/public_url)
 
 ![Oracle APEx](https://brm-workforce.oracle.com/pdf/certview/images/APEX23OCP.png)
 
